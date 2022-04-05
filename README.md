@@ -1,6 +1,6 @@
 ### Bem vindo! Me chamo Joao Felipe 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ricardin_y?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fricardin_y&screen_name=ricardin_y)
+[![Twitter Follow](https://img.shields.io/twitter/follow/?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fricardin_y&screen_name=joaofelipe34)
 [![Youtube Subs](https://img.shields.io/youtube/channel/subscribers/UCiCQgMY1nTkBxkXG7zc_6bA?style=social)](https://www.youtube.com/channel/UCiCQgMY1nTkBxkXG7zc_6bA)
 ## Me chamo joao e sou um Dos melhores desenvolvedor de jogos e sites,
 
