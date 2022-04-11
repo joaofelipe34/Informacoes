@@ -7,7 +7,7 @@
 - 🚀 Nome: João
 - 🚀 Gosto: criar sites, criar jogos , servidores e mexer com tecnologia da informação.
 - ✅ XeonHost Developer And Owner
-- 🚀 Developer Java (Médio), JavaScrip (Extremo), CSS (Super Iniciante), HTML (Extremo)
+- 🚀 Developer Java (Médio), JavaScript (Extremo), CSS (Super Iniciante), HTML (Extremo)
 
 ### Conecte-se Comigo!
 
